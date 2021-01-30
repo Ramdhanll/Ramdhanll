@@ -1,6 +1,6 @@
 ### Hi there, I'm Dhan
 
-[<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ramdhanll" frameborder="0"></iframe>]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhanll&langs_count=8)](https://github.com/ramdhanll/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhanll)](https://github.com/ramdhanll/github-readme-stats)
 
