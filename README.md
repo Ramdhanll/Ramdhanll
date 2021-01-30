@@ -1,6 +1,3 @@
-### Hi there, I'm Dhani
-
-
 ## I'm a Developer !!
 
 - 👨‍🎓 I'am currently studying as an informatics engineering student.
