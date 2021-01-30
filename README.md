@@ -1,8 +1,5 @@
-### Hi there, I'm Dhan
+### Hi there, I'm Dhani
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhanll&langs_count=8)](https://github.com/ramdhanll/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhanll)](https://github.com/ramdhanll/github-readme-stats)
 
 ## I'm a Developer !!
 
@@ -10,6 +7,9 @@
 - 👩‍🏭 I’am currently freelancer as full stack developer.
 - 🚀 i'am an enthusiast of javascript.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhanll&langs_count=8)](https://github.com/ramdhanll/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhanll)](https://github.com/ramdhanll/github-readme-stats)
 
 ### Languages and Tools:
 
