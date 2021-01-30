@@ -21,7 +21,9 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F6686410%2F31217465-6adbbd18-a98d-11e7-9371-26d578182e9d.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fmank319%2FelementaryPlus%2Fissues%2F455&tbnid=3i4W4_xi1lTj-M&vet=12ahUKEwj_zKLO38PuAhVm53MBHd_KCkQQMygCegUIARCWAQ..i&docid=XXJwfjvQNcoiFM&w=512&h=512&q=logo%20insomnia%20rest%20api%20png&safe=strict&ved=2ahUKEwj_zKLO38PuAhVm53MBHd_KCkQQMygCegUIARCWAQ" />
+<img align="left" alt="Insomnia" width="26px" src="https://www.google.com/search?q=logo+insomnia+png&safe=strict&rlz=1C1CHBF_enID869ID869&sxsrf=ALeKk010furaT8zWONBJhLP3OPb9VsM-sw:1612013060574&tbm=isch&source=iu&ictx=1&fir=iVquVFXSZF8XgM%252C45_rQBvhmZuLpM%252C_&vet=1&usg=AI4_-kQX4Zxs7QqGtfvRodKVCr0jdCfxGQ&sa=X&ved=2ahUKEwiowOTO4MPuAhUSVH0KHRCgAS4Q9QF6BAgLEAE#imgrc=iVquVFXSZF8XgM" />
+
+<img align="left" alt="Insomnia" width="26px" src="https://www.google.com/search?q=logo+figma+png&safe=strict&rlz=1C1CHBF_enID869ID869&sxsrf=ALeKk00R1yefM4mFHeyKzhAv9HgEfDV6Qg:1612013088348&tbm=isch&source=iu&ictx=1&fir=yvYl-uVwkqCZ3M%252Cs3xzQfLZseiCDM%252C_&vet=1&usg=AI4_-kTuCwVIJBhGdpwOnJNrlODE6SqXyw&sa=X&ved=2ahUKEwi96IPc4MPuAhWHfn0KHePJB-0Q9QF6BAgQEAE#imgrc=yvYl-uVwkqCZ3M" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
