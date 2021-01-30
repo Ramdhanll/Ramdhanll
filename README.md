@@ -2,6 +2,8 @@
 
 [<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?ramdhanll" frameborder="0"></iframe>]
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhanll)](https://github.com/ramdhanll/github-readme-stats)
+
 ## I'm a Developer !!
 
 - 👨‍🎓 I'am currently studying as an informatics engineering student.
