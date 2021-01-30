@@ -21,7 +21,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Insomnia" width="26px" src="https://www.google.com/search?q=logo+insomnia+png&safe=strict&rlz=1C1CHBF_enID869ID869&sxsrf=ALeKk010furaT8zWONBJhLP3OPb9VsM-sw:1612013060574&tbm=isch&source=iu&ictx=1&fir=iVquVFXSZF8XgM%252C45_rQBvhmZuLpM%252C_&vet=1&usg=AI4_-kQX4Zxs7QqGtfvRodKVCr0jdCfxGQ&sa=X&ved=2ahUKEwiowOTO4MPuAhUSVH0KHRCgAS4Q9QF6BAgLEAE#imgrc=iVquVFXSZF8XgM" />
+<img align="left" alt="Insomnia" width="26px" src="./icons/insomnia.png" />
 
 <img align="left" alt="Insomnia" width="26px" src="./icons/figma.png" />
 
