@@ -1,7 +1,6 @@
 ## I'm a Developer !!
 
 - 👨‍🎓 I'am currently studying as an informatics engineering student.
-- 👨‍🏭 freelancer as full stack developer.
 - 🚀 i'am an enthusiast of javascript.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhanll&langs_count=8)](https://github.com/ramdhanll/github-readme-stats)
