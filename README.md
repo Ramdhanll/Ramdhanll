@@ -1,4 +1,4 @@
-## I'm a Developer !!
+## I'm a Coder!
 
 - 👨‍🎓 I'am currently studying as an informatics engineering student.
 - 🚀 Javascript addict.
