@@ -1,8 +1,5 @@
 ## I'm a Coder!
 
-- 👨‍🎓 I'am currently studying as an informatics engineering student.
-- 🚀 Javascript addict.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdhanll&langs_count=8)](https://github.com/ramdhanll/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdhanll)](https://github.com/ramdhanll/github-readme-stats) -->
